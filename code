@@ -1,0 +1,13 @@
+{
+    "id": "4ee7f1e00081da1fcb00014b",
+    "dateCreated": "2011-12-14T00:46:24.534Z",
+    "dateExpires": "2020-01-01T00:00:00.000Z",
+    "idMember": "4ee7df3ce582acdec80000b2",
+    "identifier": "",
+    "permissions": [{
+        "idModel": "*",
+        "modelType": "*",
+        "read": true,
+        "write": false
+    }]
+}
